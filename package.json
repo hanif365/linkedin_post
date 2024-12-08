@@ -22,7 +22,7 @@
     "which": "^2.0.2"
   },
   "scripts": {
-    "watch": "tsc-watch --onSuccess \"node ./dist/1.js\"",
+    "dev": "tsc-watch --onSuccess \"node ./dist/2.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
